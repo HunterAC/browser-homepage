@@ -1,2 +1,2 @@
 # browser-homepage
-A small project, creating a nice browse homepage.
+A small project, creating a nice browser homepage.
