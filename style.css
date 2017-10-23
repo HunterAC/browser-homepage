@@ -3,6 +3,15 @@ body {
 }
 
 .links {
-  background-color: 
+  background-color:
+}
+
+.row {
+  clear: both;
   float: left;
+}
+
+.row a img {
+  border-radius: 15px;
+  border-color: rgb(51, 55, 53);
 }
