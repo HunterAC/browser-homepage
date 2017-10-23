@@ -1,17 +1,30 @@
 body {
-  background-color: rgb(87, 89, 89);
+  background-color: rgb(162, 162, 162);
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: rgb(57, 62, 70);
+  padding-bottom: 3%;
+  font-family: Arial;
+  font-size: 40px;
+  color: white;
 }
 
 .links {
-  background-color:
+  padding-left: 2.5%;
+  padding-top: 2.5%
 }
 
 .row {
   clear: both;
   float: left;
+  padding-top: 5px;
 }
 
 .row a img {
   border-radius: 15px;
-  border-color: rgb(51, 55, 53);
+  padding: 5px;
+  background-color: rgb(104, 110, 117);
 }
